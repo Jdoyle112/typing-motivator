@@ -1,0 +1,23 @@
+
+body {
+	background-color: #DE952E;
+}
+
+.content {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Oswald';
+	padding-bottom: 15px;
+}
+
+h4 {
+	font-family: 'PT Sans';
+	padding-bottom: 25px;
+}
+
+#input_label {
+	width: 100%;
+	padding-bottom: 5px;
+}
